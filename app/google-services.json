@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764931387305",
+    "firebase_url": "https://prevenshop1.firebaseio.com",
+    "project_id": "prevenshop1",
+    "storage_bucket": "prevenshop1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764931387305:android:35451d325601b2727b1eb8",
+        "android_client_info": {
+          "package_name": "com.example.prevenshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764931387305-a6hss5sltdet5v0hhpfpa60ilif8h80j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrVrHnkjuDBPSpxa1PIQzo_nYCPKoxL_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764931387305-a6hss5sltdet5v0hhpfpa60ilif8h80j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

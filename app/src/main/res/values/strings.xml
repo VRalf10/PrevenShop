@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PrevenShop</string>
+    <string name="intro">La prevenzione a portata di click</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Registrati</string>
+    <string name="enter_email">Inserisci Email</string>
+    <string name="enter_passw">Inserisci Password</string>
+    <string name="user_login">User Login</string>
+    <string name="registrazione">Registrati</string>
+    <string name="nome">Nome</string>
+    <string name="cognome">Cognome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Conferma Password</string>
+    <string name="btn_registrazione">Registrati</string>
+    <string name="prodotti_popolari">Prodotti Popolari</string>
+    <string name="sfogia_categorie">Sfoglia Categorie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

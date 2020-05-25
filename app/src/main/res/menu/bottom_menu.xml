@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/all"
+        android:title="All"
+        android:icon="@drawable/all"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/profilattici"
+        android:title="Profilattici"
+        android:icon="@drawable/profilattici"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/accessori"
+        android:title="Accessori"
+        android:icon="@drawable/accessbutton"
+        app:showAsAction="always"
+        />
+
+    <item android:id="@+id/carrello"
+        android:title="Carrello"
+        android:icon="@drawable/button"
+        app:showAsAction="always"
+        />
+
+
+</menu>
