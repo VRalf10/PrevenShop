@@ -1,4 +1,4 @@
-#<img src="images/logo.png" width="400">
+<img src="images/logo.png" width="400">
 
 Android e-commerce application 
 <br>
