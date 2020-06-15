@@ -1,6 +1,7 @@
 # <img src="images/logo.png" width="400">
 Android e-commerce application 
 <br>
+[Google Presentation](https://docs.google.com/presentation/d/1seYaG6RZU07Ilu0a-WTgIfY2vhiGP0Zp4SMRc25_vU0/edit)
 <br>
 ## Components (General)
 - Firebase to manage Users, Products and Orders;
